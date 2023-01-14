@@ -1,9 +1,21 @@
 <p>
+
  <h1 align="center">
+
    💫 About Me:
+
  </h1>
+
 </p>
+
 <br>
+
+<p align="center" width="100%"> 
+
+  <img width="65%" src="https://i.postimg.cc/ncVzCNbV/ezgif-com-gif-maker-1.gif">
+
+</p>
+
 🙌 Hi, I'm Syahrul<br>📚 here is where I know programming and learn more<br>⚡ and there's nothing special here, just ordinary civilians who like coding<br>
 
 ## 🌐 Socials:
@@ -22,4 +34,16 @@
 
 [![](https://visitcount.itsvg.in/api?id=GhofarSyahrul&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<p align="center" width="100%"> 
 
+  <img widht="70%" src="https://i.imgur.com/BFDunnb.gif"> 
+  <img width="50%" src="https://i.imgur.com/pQNLnvj.gif">
+  <img widht="70%" src="https://i.imgur.com/BFDunnb.gif">
+
+</p>
+
+---
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l32d4plls7upqtqob2tf4yczkq&cover_image=true&theme=compact&show_offline=false&background_color=121212) 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31l32d4plls7upqtqob2tf4yczkq) ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31l32d4plls7upqtqob2tf4yczkq)
